@@ -1,0 +1,20 @@
+.carousel-inner {
+     height: 550px; /* você pode ajustar a altura */
+}
+
+.carousel-inner img {
+     height: 100%;
+     width: 100%;
+     object-fit: cover;
+}
+
+.card:hover {
+     transition: 0.5s;
+     background-color: rgb(202, 202, 202);
+     cursor: pointer;
+}
+
+@media (max-width: 768px) {
+}
+@media (max-width: 480px) {
+}
